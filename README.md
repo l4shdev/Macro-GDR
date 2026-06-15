@@ -2,7 +2,17 @@
 
 A powerful and lightweight macro recorder mod for Geometry Dash, built with the Geode SDK. Record your gameplay, save it to a file, and play it back seamlessly on any level. Supports both Windows and Android!
 
-![Logo](./logo.svg)
+#  Repository Structure
+Create these files in your project folder exactly as shown:
+macro-geode/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── logo.svg
+├── mod.json
+└── src/
+    ├── main.cpp
+    └── main.hpp
 
 ## ✨ Features
 * **Record & Play:** Capture your exact inputs and replay them flawlessly.
