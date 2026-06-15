@@ -1,0 +1,12 @@
+build/
+out/
+cmake-build-*/
+.geode/
+*.geode
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
