@@ -1,0 +1,20 @@
+{
+	"geode": "3.0.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206"
+	},
+	"id": "yourname.macro",
+	"name": "Macro",
+	"version": "1.0.0",
+	"developer": "l4shdev",
+	"description": "Record and Playback your gameplay with Save/Load functionality.",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": "1.0.0",
+			"importance": "required"
+		}
+	],
+	"tags": ["gameplay", "utility"]
+}
