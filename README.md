@@ -4,6 +4,7 @@ A powerful and lightweight macro recorder mod for Geometry Dash, built with the 
 
 #  Repository Structure
 Create these files in your project folder exactly as shown:
+
 macro-geode/
 ├── .gitignore
 ├── LICENSE
